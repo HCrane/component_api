@@ -1,5 +1,4 @@
-# MA_Dataset_Ingress
-
+# MA_PUBLIC_API
 This repository contains the code to deploy an AWS SAM application to the cloud.
 
 This is one of 3 repositories that takes care of ingesting and preprocessing images, training a neuronal network and offering an API solution to classify incomming images.
